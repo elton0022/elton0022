@@ -10,11 +10,20 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elton0022&show_icons=true&theme=nightowl" alt="elton0022's github stats" />
-</p>
+<div align="center">
+  <p align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elton0022&layout=compact&theme=dark"/>
+  </p>
+
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=elton0022&show_icons=true&theme=dark" alt="elton0022's github stats" />
+  </p>
+</div>
 
 <br/>
 
