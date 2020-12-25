@@ -13,6 +13,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About me
+I'm a fullstack developer and project manager at [Aikont](https://www.aikont.com.br/).
 ## Technologies & Tools
 <p>
    <img src="https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=white&label=Code&message=JavaScript&color=blueviolet">
