@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Elton 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/elton0022)](https://github.com/elton0022)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elton-rodrigues-dev/)](https://www.linkedin.com/in/elton-rodrigues-dev/)
@@ -13,12 +13,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## technologies & tools
+## Technologies & Tools
 <p>
    <img src="https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=white&label=Code&message=JavaScript&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=typescript&logoColor=white&label=Code&message=TypeScript&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=java&logoColor=white&label=Code&message=Java&color=blueviolet">
-    <img src="https://img.shields.io/static/v1?style=flat&logo=python&logoColor=white&label=Code&message=Java&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=python&logoColor=white&label=Code&message=Java&color=blueviolet">
 </p>
 
 <br/>
