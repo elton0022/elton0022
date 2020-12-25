@@ -10,13 +10,19 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## technologies & tools
+<p>
+   <img src="https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=white&label=Code&message=JavaScript&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=typescript&logoColor=white&label=Code&message=TypeScript&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=java&logoColor=white&label=Code&message=Java&color=blueviolet">
+    <img src="https://img.shields.io/static/v1?style=flat&logo=python&logoColor=white&label=Code&message=Java&color=blueviolet">
+</p>
 
 <br/>
 
-<div align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=elton0022&show_icons=true&theme=dark" alt="elton0022's github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elton0022&layout=compact&theme=dark"/>
-</div>
+</p>
 
 <br/>
 
