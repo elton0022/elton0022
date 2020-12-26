@@ -7,14 +7,14 @@
 I'm a fullstack developer and project manager at [Aikont](https://www.aikont.com.br/).
 ## Technologies & Tools
 <p>
-   <img src="https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=white&label=Code&message=JavaScript&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=typescript&logoColor=white&label=Code&message=TypeScript&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=java&logoColor=white&label=Code&message=Java&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=react&logoColor=white&label=Technology&message=ReactJS&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=react.native&logoColor=white&label=Technology&message=ReactNative&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=angular&logoColor=white&label=Technology&message=Angular&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=ionic&logoColor=white&label=Technology&message=Ionic&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=spring&logoColor=white&label=Technology&message=Spring&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=white&label=Language&message=JavaScript&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=typescript&logoColor=white&label=Language&message=TypeScript&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=java&logoColor=white&label=Language&message=Java&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=react&logoColor=white&label=Library&message=ReactJS&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=react.native&logoColor=white&label=Library&message=ReactNative&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=angular&logoColor=white&label=Framework&message=Angular&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=ionic&logoColor=white&label=Framework&message=Ionic&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=spring&logoColor=white&label=Framework&message=Spring&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=node.js&logoColor=white&label=Technology&message=Node.js&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=mysql&logoColor=white&label=DataBase&message=MySQL&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=mongodb&logoColor=white&label=DataBase&message=MongoDB&color=blueviolet">
