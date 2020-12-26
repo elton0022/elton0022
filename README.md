@@ -22,7 +22,7 @@ I'm a fullstack developer and project manager at [Aikont](https://www.aikont.com
 
 <br/>
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=elton0022&show_icons=true&theme=buefy" alt="elton0022's github stats" />
 </p>
 
