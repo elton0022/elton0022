@@ -18,12 +18,11 @@ I'm a fullstack developer and project manager at [Aikont](https://www.aikont.com
 ## Technologies & Tools
 <p>
    <img src="https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=white&label=Code&message=JavaScript&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=typescript&logoColor=white&label=Code&message=TypeScript&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=java&logoColor=white&label=Code&message=Java&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=react&logoColor=white&label=Technologie&message=ReactJS&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=reactnative&logoColor=white&label=Technologie&message=ReactNative&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=typescript&logoColor=white&label=Code&message=TypeScript&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=angular&logoColor=white&label=Technologie&message=Angular&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=java&logoColor=white&label=Code&message=Java&color=blueviolet">
-   <img src="https://img.shields.io/static/v1?style=flat&logo=python&logoColor=white&label=Code&message=Java&color=blueviolet">
 </p>
 
 <br/>
