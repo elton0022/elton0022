@@ -1,6 +1,5 @@
 ## Hi, I'm Elton 👋😄
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/elton0022)](https://github.com/elton0022)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elton-rodrigues-dev/)](https://www.linkedin.com/in/elton-rodrigues-dev/)
 
 ## About me
