@@ -2,7 +2,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elton-rodrigues-dev/)](https://www.linkedin.com/in/elton-rodrigues-dev/)
-
 [![Gmail Badge](https://img.shields.io/badge/-eltonrodrigues0022.er@gmail.com-dc3545?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltonrodrigues0022.er@gmail.com)](mailto:eltonrodrigues0022.er@gmail.com)
 
 ## About me
