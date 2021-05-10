@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-eltonrodrigues0022.er@gmail.com-dc3545?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltonrodrigues0022.er@gmail.com)](mailto:eltonrodrigues0022.er@gmail.com)
 
 ## About me
-I'm a fullstack developer and Tech Lead at [Aikont](https://www.aikont.com.br/).
+I'm a fullstack developer.
 ## Technologies & Tools
 <p>
    <img src="https://img.shields.io/static/v1?style=flat&logo=javascript&logoColor=white&label=Language&message=JavaScript&color=blueviolet">
