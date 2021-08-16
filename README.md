@@ -13,6 +13,7 @@ I'm a fullstack developer.
    <img src="https://img.shields.io/static/v1?style=flat&logo=java&logoColor=white&label=Language&message=Java&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=react&logoColor=white&label=Library&message=ReactJS&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=react.native&logoColor=white&label=Library&message=ReactNative&color=blueviolet">
+   <img src="https://img.shields.io/static/v1?style=flat&logo=vue.js&logoColor=white&label=Framework&message=Vue&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=angular&logoColor=white&label=Framework&message=Angular&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=ionic&logoColor=white&label=Framework&message=Ionic&color=blueviolet">
    <img src="https://img.shields.io/static/v1?style=flat&logo=spring&logoColor=white&label=Framework&message=Spring&color=blueviolet">
