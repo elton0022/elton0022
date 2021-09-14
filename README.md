@@ -30,6 +30,8 @@ I'm a fullstack developer.
 
 <br/>
 
+ ![Snake animation](https://github.com/elton0022/elton0022/blob/output/github-contribution-grid-snake.svg)
+
 <p align="right">
   <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/elton0022/elton0022" alt="Visitors badge" />
